@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @wzhengg
+### 👋 Hi, I’m William Zheng
 #### 👀 I’m interested in new software and technologies related to development
 #### 🌱 I’m currently learning full stack web development with ReactJS, NodeJS, ExpressJS, and MongoDB
 #### 🚀 I'm interested in learning mobile development in the future
